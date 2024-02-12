@@ -73,14 +73,13 @@ I'm interested in technology in general and I'm always looking for new stuff to 
 
 ## Fields of Interest
 
-:UK:/:US: **English**
+:crown:/:statue_of_liberty: **English (UK/US)**<br/>
+:straight_ruler::triangular_ruler: **Math**
 
-:triangular_ruler::straight_ruler:**Math**
+:books::orange_book: **Reading (tech, romance, fantasy, etc...)**
 
-:books:**Reading (tech, romance, fantasy, etc...)**
+:computer::floppy_disk: **Data Structure**
 
-:computer::floppy_disk:**Data Structure**
-
-:martial_arts_uniform:**Brazilian Jit-Jitsu**
+:martial_arts_uniform: **Brazilian Jit-Jitsu**
 
 </div>
