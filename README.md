@@ -10,7 +10,7 @@
 ### Hey devs, welcome to my GitHub profile! :wave::wave:
 
 <p style="text-align: justify;">
-I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
+I'm 21 years-old and I live in the Northeastttttttttttttttttttt :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p>
 </div>
 
@@ -33,7 +33,10 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 
 <section class="tech-tookit">
 
-<div class="tools">
+<table>
+  <tr>
+    <td valign="top">
+        <div class="tools" align="left" height="50">
 
 ### My Tech Toolkit
 
@@ -50,13 +53,22 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <img name="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img name="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-</div><br/>
-
-<div class="top-languages">
+</div> 
+    </td>
+    <td valign="top">
+        <div class="top-languages" align="right" height="50px" style="height:50px">
     
 <img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
 </div>
+    </td>
+  </tr>
+</table>
+    
+
+
+
+
 </section>
     
 ## Follow me on my social networks
