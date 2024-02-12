@@ -12,13 +12,6 @@
 <p style="text-align:justify;">
 I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p><br>
-
-<div class="social-networks">
-    <a name="linkedin" href="https://www.linkedin.com/in/maelton-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a name="instagram" href="https://www.instagram.com/maelton_ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a name="twitter" href="https://twitter.com/maelton_ti" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
-
 </div>
 </section><br>
 
@@ -35,6 +28,12 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 🌱 I'm currently learning Java, Typescript, Angular and Spring Boot<br/>
 🤔 I’m looking for help with Software Design Patterns<br/>
 😄 Ask me about Data Structures, Java and Python<br/>
+
+<div class="social-networks">
+    <a name="linkedin" href="https://www.linkedin.com/in/maelton-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a name="instagram" href="https://www.instagram.com/maelton_ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a name="twitter" href="https://twitter.com/maelton_ti" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
 
 <img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=dracula"/>
 
