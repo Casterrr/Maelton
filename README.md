@@ -36,6 +36,8 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 🤔 I’m looking for help with Software Design Patterns<br/>
 😄 Ask me about Data Structures, Java and Python<br/>
 
+<img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=dracula"/>
+
 </div>
 </section>
 
@@ -44,9 +46,6 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <div class="tech-stack">
 
 <h2 class="title">Tech Stack</h2>
-
-<img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=dracula"/>
-
 &nbsp;
 
 <div class="tools">
