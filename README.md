@@ -37,8 +37,6 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 😄 Ask me about Data Structures, Java and Python<br/>
 
 </div>
-
-![Snake animation](https://github.com/Maelton/Maelton/blob/output/github-contribution-grid-snake.svg)
 </section>
 
 </section>
