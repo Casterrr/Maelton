@@ -27,14 +27,13 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <div class="tech-interests">
 
 <p style="text-align: justify;">
-I'm interested in technology in general and I'm always looking for new stuff to learn.
+### I'm interested in technology in general and I'm always looking for new stuff to learn.
 </p>
 
-:book: I'm currently learning Java, Typescript, Angular and Spring Boot
+:book: I'm currently learning Java, Typescript, Angular and Spring Boot<br/>
+:confused: I’m looking for help with Software Design Patterns<br/>
+:heart_eyes_cat: Ask me about Data Structures, Java and Python<br/>
 
-:confused: I’m looking for help with Software Design Patterns
-
-:heart_eyes_cat: Ask me about Data Structures, Java and Python
 </div>
 
 ![Snake animation](https://github.com/Maelton/Maelton/blob/output/github-contribution-grid-snake.svg)
