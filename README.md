@@ -27,7 +27,9 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <div class="tech-interests">
 
 <p style="text-align: justify;">
+    
 ### I'm interested in technology in general and I'm always looking for new stuff to learn.
+
 </p>
 
 :book: I'm currently learning Java, Typescript, Angular and Spring Boot<br/>
