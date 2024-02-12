@@ -4,8 +4,8 @@
 
 </header>
 
-<section class="top-left-side">
-<div class="maelton-by-maelton">
+<section class="maelton-by-maelton">
+<div class="welcome">
 
 ### Hey devs, welcome to my GitHub profile! :wave::wave:
 
@@ -13,9 +13,6 @@
 I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p>
 </div>
-</section>
-
-<section class="top-right-side">
 
 <div class="tech-interests">
 
@@ -32,17 +29,18 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 </div>
 </section>
 
-</section>
-
 ##
 
-<div class="tech-stack">
-
-<br>
+<section class="tech-tookit">
+<div class="top-languages">
     
 <img name="top-languages" height="180em" style="display: inline-block;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
+</div>
+
 <div class="tools" style="align: right;">
+
+### My Tech Toolkit
 
 <img name="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img name="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -58,8 +56,7 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <img name="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>    
-
-</div>
+</section>
     
 ## Follow me on my social networks
 <div class="social-networks">
