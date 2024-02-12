@@ -13,7 +13,7 @@
 I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p>
 </div>
-</section><br>
+</section>
 
 <section class="top-right-side">
 
@@ -29,14 +29,12 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 🤔 I’m looking for help with Software Design Patterns<br/>
 😄 Ask me about Data Structures, Java and Python<br/>
 
-<br>
+## Follow me on my social medias
 <div class="social-networks">
     <a name="linkedin" href="https://www.linkedin.com/in/maelton-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a name="instagram" href="https://www.instagram.com/maelton_ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a name="twitter" href="https://twitter.com/maelton_ti" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-
-<img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=dracula"/>
 
 </div>
 </section>
@@ -47,8 +45,9 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 
 <h2 class="title">Tech Stack</h2>
 &nbsp;
+<img name="top-languages" height="180em" style="display: inline-block;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
-<div class="tools">
+<div class="tools" style="align: right;">
 
 <img name="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img name="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
