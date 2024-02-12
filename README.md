@@ -32,11 +32,6 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 ##
 
 <section class="tech-tookit">
-<div class="top-languages">
-    
-<img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-
-</div>
 
 <div class="tools">
 
@@ -55,7 +50,13 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <img name="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img name="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-</div>    
+</div><br/>
+
+<div class="top-languages">
+    
+<img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+
+</div>
 </section>
     
 ## Follow me on my social networks
