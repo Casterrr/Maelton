@@ -9,7 +9,7 @@
 
 ### Hey devs, welcome to my GitHub profile! :wave::wave:
 
-<p style="text-align:justify;">
+<p style="text-align: justify;">
 I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
 </p>
 </div>
@@ -34,11 +34,11 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 <section class="tech-tookit">
 <div class="top-languages">
     
-<img name="top-languages" height="180em" style="display: inline-block;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+<img name="top-languages" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
 </div>
 
-<div class="tools" style="align: right;">
+<div class="tools">
 
 ### My Tech Toolkit
 
