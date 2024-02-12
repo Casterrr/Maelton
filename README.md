@@ -75,7 +75,7 @@ I'm interested in technology in general and I'm always looking for new stuff to 
 
 :crown:/:statue_of_liberty: **English (UK/US)**<br/>
 :straight_ruler::triangular_ruler: **Math**<br/>
-:books::orange_book: **Reading (tech, romance, fantasy, etc...)**<br/>
+:orange_book::open_book: **Reading (tech, romance, fantasy, etc...)**<br/>
 :computer::floppy_disk: **Data Structure**<br/>
 :martial_arts_uniform: **Brazilian Jit-Jitsu**
 
