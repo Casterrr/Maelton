@@ -1,13 +1,13 @@
 <header>
 
-# Maelton Lima
+# Maelton :v::sunglasses:
 
 </header>
 
 <section class="top-left-side">
 <div class="maelton-by-maelton">
 
-### Hey devs, welcome to my GitHub profile!
+### Hey devs, welcome to my GitHub profile! :wave::wave:
 
 <p style="text-align:justify;">
 I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I've been programming for almost 7 years, currently I'm pursuing a Bachelor's degree in Information Systems at IFAL :school: (Instituto Federal de Alagoas).
@@ -21,7 +21,7 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 
 <p style="text-align: justify;">
     
-### I'm interested in technology in general and I'm always looking for new stuff to learn.
+### I'm interested in technology in general and I'm always looking for new stuff to learn :bow:.
 
 </p>
 
@@ -29,7 +29,7 @@ I'm 21 years-old and I live in the Northeast :sunglasses::sunrise: of Brazil! I'
 🤔 I’m looking for help with Software Design Patterns<br/>
 😄 Ask me about Data Structures, Java and Python<br/>
 
-## Follow me on my social medias
+## Follow me on my social networks
 <div class="social-networks">
     <a name="linkedin" href="https://www.linkedin.com/in/maelton-lima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a name="instagram" href="https://www.instagram.com/maelton_ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
